@@ -11,3 +11,4 @@ Console.WriteLine("введите целое число");
 int numberOne = Convert.ToInt32(Console.ReadLine());
 int square = numberOne * numberOne;
 Console.WriteLine( $" {numberOne} -> {square} ");
+// ....
